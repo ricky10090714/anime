@@ -98,6 +98,7 @@ getgenv().Config = {
 	["AutoPlayNext"] = true,
 	["Setx2GameSpeed"] = true,
 	["AutoBuyRaid"] = true,
+	["AutoLeave"] = true,
 	["AutoSell"] = true,
 	["LSDelay"] = 0.4,
 	["AutoUpgrade"] = true,
