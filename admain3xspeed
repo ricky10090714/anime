@@ -10,7 +10,6 @@ getgenv().Config = {
 	["UpgradeMethod"] = "Nearest from Middle Position (until Max)",
 	["Auto Leave Wave"] = true,
 	["Record Options"] = "Money",
-	["BlackScreen"] = true,
 	["Auto Start Time Delay"] = 5,
 	["FeedLevel"] = 79,
 	["SelectRaidWorld"] = {
