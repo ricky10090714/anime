@@ -34,7 +34,7 @@ getgenv().Config = {
 			["Ronin Sage"] = false,
 			["Zephyra"] = false,
 			["Shadow Conjurer"] = false,
-			["Radiant King"] = true
+			["Radiant King"] = false
 		},
 		["Trial of Zen"] = {
 			["Sea Enchantress"] = false,
@@ -43,11 +43,11 @@ getgenv().Config = {
 			["Ice Mage"] = false,
 			["Ronin Sage"] = false,
 			["Zephyra"] = false,
-			["Sage"] = true
+			["Sage"] = false
 		},
 		["Trial of Neptune"] = {
 			["Sea Enchantress"] = false,
-			["Poseidon"] = true,
+			["Poseidon"] = false,
 			["Dunestriker"] = false,
 			["Ice Mage"] = false,
 			["Ronin Sage"] = false,
