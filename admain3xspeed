@@ -59,6 +59,7 @@ getgenv().Config = {
 	["WH_MatchComplete"] = true,
 	["AutoUseAbility"] = true,
 	["Setx2GameSpeed"] = true,
+	["AutoLeave"] = true,
 	["AutoSell"] = true,
 	["AutoReplay"] = true,
 	["AutoUpgrade"] = true,
