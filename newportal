@@ -81,6 +81,7 @@ getgenv().Config = {
 	["AutoPlayNext"] = true,
 	["Setx2GameSpeed"] = true,
 	["AutoBuyRaid"] = true,
+	["AutoLeave"] = true,
 	["AutoSell"] = true,
 	["AutoReplay"] = true,
 	["Join Priority"] = {
