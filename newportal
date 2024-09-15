@@ -176,10 +176,7 @@ getgenv().Config = {
 	["Hide Key"] = "U",
 	["difficultySelect"] = "Normal",
 	["SelectPortal"] = {
-		["Lunar Portal"] = true,
-		["Golden Knight Portal"] = true,
-		["Ancient Dragon Portal"] = true,
-		["Lunar Temple Portal"] = true
+		["Golden Knight Portal"] = true
 	},
 	["Auto Leave"] = true,
 	["HillHeight"] = {
