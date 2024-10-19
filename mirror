@@ -142,7 +142,7 @@ getgenv().Config = {
 	["TP Delay"] = 3,
 	["Import Mode"] = "Link",
 	["JoinerList"] = {
-		[1] = "Ahboy_YTChannel",
+		[1] = "AhBoy_YTChannel",
 		[2] = "MainValk_wiki"
 	},
 	["AutoLeaveOnWave"] = 46,
