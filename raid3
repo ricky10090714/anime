@@ -7,6 +7,32 @@ getgenv().Config = {
 		["Result"] = true,
 		["URL"] = "https://discord.com/api/webhooks/1202487837962936320/1jqGaLrcVD_Hr64IFnv8_AHKWVrLExyk1xH_XHlwLu0Y2J2Tt_ocp4SUitrdrrAlQQGD"
 	},
+	["SelectBuyRaid"] = {
+		["Raid3"] = {
+			["Dracula (Weakened)"] = false,
+			["Frost Bind"] = false,
+			["Ancient Relic"] = false,
+			["Divine Trait Crystal"] = true,
+			["Risky Dice"] = false,
+			["Vampire Coffin"] = false
+		},
+		["Raid1"] = {
+			["Trait Crystal"] = false,
+			["Risky Dice"] = false,
+			["Frost Bind"] = false,
+			["Gems"] = false,
+			["Bear King"] = false,
+			["Otherworldly Gauntlet"] = false
+		},
+		["Raid2"] = {
+			["Trait Crystal"] = false,
+			["Risky Dice"] = false,
+			["Frost Bind"] = false,
+			["Gems"] = false,
+			["Aqua Blade"] = false,
+			["Water Swordsmaster"] = false
+		}
+	},
 	["UpgradeMethod"] = "Nearest from Middle Position (until Max)",
 	["Auto Leave Wave"] = true,
 	["Record Options"] = "Money",
@@ -65,6 +91,7 @@ getgenv().Config = {
 	["WH_MatchComplete"] = true,
 	["AutoUseAbility"] = true,
 	["Setx2GameSpeed"] = true,
+	["AutoBuyRaid"] = true,
 	["AutoLeave"] = true,
 	["LSDelay"] = 0.4,
 	["AutoUpgrade"] = true,
