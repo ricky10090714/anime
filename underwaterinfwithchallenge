@@ -60,6 +60,9 @@ getgenv().Config = {
 	["WH_MatchComplete"] = true,
 	["AutoUseAbility"] = true,
 	["SelectReward"] = {
+		["Star Rift (Dark)"] = true,
+		["Star Rift (Rainbow)"] = true,
+		["Star Rift (Light)"] = true,
 		["Star Rift"] = true
 	},
 	["Setx2GameSpeed"] = true,
