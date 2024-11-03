@@ -38,7 +38,7 @@ getgenv().Config = {
 			["Ancient Relic"] = false,
 			["Risky Dice"] = false,
 			["Christmas Cookie"] = false,
-			["Wish"] = false
+			["Wish"] = true
 		}
 	},
 	["UpgradeMethod"] = "Nearest from Middle Position (until Max)",
@@ -136,7 +136,7 @@ getgenv().Config = {
 	["LeaveSellWave"] = 32,
 	["Play Macro"] = true,
 	["Auto Start Delay"] = 1,
-	["SelectChapter"] = "Elemental",
+	["SelectChapter"] = "Infinite",
 	["RequiredGem"] = 3000,
 	["AutoLeaveOnWave"] = 46,
 	["Step Delay"] = 1,
